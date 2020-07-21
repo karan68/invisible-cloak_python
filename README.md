@@ -1,8 +1,8 @@
 # invisible-cloak_pyton
-# INSPIRED BY-https://github.com/kaustubh-sadekar/Invisibility_Cloak
-This is a Python program that uses open cv and numpy library and screen capturing to make you invisible when you come in contact with red colored cloth
+INSPIRED BY-https://github.com/kaustubh-sadekar/Invisibility_Cloak
+#This is a Python program that uses open cv and numpy library and screen capturing to make you invisible when you come in contact with red colored cloth
 
-How to use it:
+#How to use it:
      1) just clone this repo 
      2) run the python file 
      3) wait for the camera to screen record for some time.
@@ -11,9 +11,9 @@ How to use it:
 
 
 
-How it works:
+#How it works:
 
-   This tutorial aims at explaining some key concepts of image processing using opencv with python. We will try to understand each line of the code
+   #This tutorial aims at explaining some key concepts of image processing using opencv with python. We will try to understand each line of the code
 
 Importing all the required libraries:
 import cv2 #it is library used for Image Processing. It is mainly used to do all the operation related to Images.
