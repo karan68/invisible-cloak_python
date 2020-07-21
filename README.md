@@ -1,5 +1,6 @@
-# invisible-cloak_pyton
 INSPIRED BY-https://github.com/kaustubh-sadekar/Invisibility_Cloak
+# invisible-cloak_pyton
+
 #This is a Python program that uses open cv and numpy library and screen capturing to make you invisible when you come in contact with red colored cloth
 
 #How to use it:
