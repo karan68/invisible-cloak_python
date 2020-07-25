@@ -14,8 +14,10 @@ INSPIRED BY-https://github.com/kaustubh-sadekar/Invisibility_Cloak
 
 
 
-# How it works:
 
-   # This tutorial aims at explaining some key concepts of image processing using opencv with python. 
+
+   # This project aims at explaining some key concepts of image processing using opencv with python. 
 We will replace the current frame pixels corresponding to the cloth with the background pixels to generate the effect of an invisibility cloak. For this we need to store the frame of a static background.
+
+# If need any help just contact me
 
